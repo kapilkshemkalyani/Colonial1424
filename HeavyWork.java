@@ -12,4 +12,9 @@ public class HeavyWork {
 		}
 		return num / ((double) COUNT);
 	}
+	
+	private void calculateAvg(int n1, int n2)
+	{
+		return (n1+n2)/2;
+	}
 }
