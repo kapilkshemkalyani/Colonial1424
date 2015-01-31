@@ -1,5 +1,3 @@
-package com.example.inclass4;
-
 import java.util.Random;
 
 public class HeavyWork {
