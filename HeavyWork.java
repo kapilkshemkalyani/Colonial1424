@@ -3,7 +3,6 @@ package com.example.inclass4;
 import java.util.Random;
 
 public class HeavyWork {
-<<<<<<< HEAD
 	static final int COUNT = 900001;
 	static double getNumber(){
 		double num = 0;
